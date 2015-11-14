@@ -1,0 +1,5 @@
+DONE
+I have only changed the Java 7 supported inherent cast conversions to Java 6 support
+I dont gurantee all the functionalities work since I have commented few unnecessary code
+
+THIS IS A ECLIPSE PROJECT, build folder contains a JAR which you can make use for Java 6 env
